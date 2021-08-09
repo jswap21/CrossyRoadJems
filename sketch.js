@@ -12,7 +12,7 @@ function preload()
  carAnimation1=loadAnimation("images/car1.png");
  carAnimation2=loadAnimation("images/car2.png");
 logAnimation=loadAnimation("images/log2.png");
-playerAnimation=loadAnimation("images/player03.png");
+playerAnimation=loadAnimation("images/Player03.png");
 cityAnimation=loadAnimation("images/city1.png");
 }
 
